@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "chikorita",
+      "hp": "22",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/ruby-sapphire/normal/chikorita.png",
+        "back": "https://img.pokemondb.net/sprites/ruby-sapphire/shiny/chikorita.png"
+      },
+      "id": 151
     }
   ]
 }
